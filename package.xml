@@ -50,8 +50,8 @@
   <!--   <doc_depend>doxygen</doc_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
   <buildtool_depend>rospy</buildtool_depend>
-  <!--buildtool_depend>jetson_utils</buildtool_depend-->
-  <!--buildtool_depend>jetson.inference</buildtool_depend-->
+  <!buildtool_depend>jetson_utils</buildtool_depend>
+  <!buildtool_depend>jetson.inference</buildtool_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>

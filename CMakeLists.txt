@@ -9,8 +9,8 @@ project(Object_Detection_rospack)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
 	rospy
-	#jetson_utils
-	#jetson.inference
+	jetson_utils
+	jetson.inference
 )
 
 ## System dependencies are found with CMake's conventions
