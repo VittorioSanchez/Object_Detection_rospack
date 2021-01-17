@@ -1,0 +1,8 @@
+BACKGROUND
+Ball
+Bicycle
+Bus
+Car
+Cat
+Dog
+Motorcycle

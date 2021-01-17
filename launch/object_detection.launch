@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="Object_Detection_rospack" type="main.py" name="detection_node"/>
+
+</launch>

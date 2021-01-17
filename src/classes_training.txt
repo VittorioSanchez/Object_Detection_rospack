@@ -1,0 +1,19 @@
+template: <class_num>) <name> => <number_in_ROS_message>
+
+nothing => 0 
+
+NET HUMAN
+
+0) person => 1
+1) baggage => 2
+
+NET HURDLES
+
+0) Backgroung => 0 EQUIVALENT TO NOTHING
+1) Ball => 3
+2) Bicycle => 4
+3) Bus => 5
+4) Car => 6
+5) Cat => 7
+6) Dog => 8
+7) Motorcycle => 9
